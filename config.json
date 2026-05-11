@@ -1,0 +1,17 @@
+{
+  "target": {
+    "name": "InVideo AI",
+    "baseUrl": "https://ai.invideo.io"
+  },
+  "localStorageTokens": {
+    "access_token": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJpdl9wcm8iLCJlbWFpbCI6ImNvcHl0aGVhdGVyQGdtYWlsLmNvbSIsImV4cCI6MTc3NjY0Nzk5NSwiaWF0IjoxNzc2NTkzOTk1LCJpc3MiOiJpdl9wcm8iLCJqdGkiOiIwZDM1MzZiMi1mYjBhLTRmMWYtYjg2MS1mNGM3ZTJkMDExNDEiLCJuYmYiOjE3NzY1OTM5OTQsInByb3ZpZGVyIjoiaXZwcm8iLCJzdWIiOiI3MTBjNTQ0OS1lZmMxLTRjMjAtOWQ2NC03M2QwZGU0OWIwMWMiLCJ0eXAiOiJhY2Nlc3MiLCJ1c2VyX2lkIjoiZjEzMTJhYWQtNjRlZC00MjUzLThmZDYtMDVlMzVhZTUwMzQ2In0.MKlpj-5ya2BiJZZppDdH2kHCkMF7Dh1cEhPfJiR-VG7AnFxlTQ5_ZzArTk5cE_wUgcC5Wf56xu0hOhulpfyrbA",
+    "refresh_token": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJpdl9wcm8iLCJlbWFpbCI6ImNvcHl0aGVhdGVyQGdtYWlsLmNvbSIsImV4cCI6MTc3NjY0Nzk5NSwiaWF0IjoxNzc2NTkzOTk1LCJpc3MiOiJpdl9wcm8iLCJqdGkiOiIwZDM1MzZiMi1mYjBhLTRmMWYtYjg2MS1mNGM3ZTJkMDExNDEiLCJuYmYiOjE3NzY1OTM5OTQsInByb3ZpZGVyIjoiaXZwcm8iLCJzdWIiOiI3MTBjNTQ0OS1lZmMxLTRjMjAtOWQ2NC03M2QwZGU0OWIwMWMiLCJ0eXAiOiJhY2Nlc3MiLCJ1c2VyX2lkIjoiZjEzMTJhYWQtNjRlZC00MjUzLThmZDYtMDVlMzVhZTUwMzQ2In0.MKlpj-5ya2BiJZZppDdH2kHCkMF7Dh1cEhPfJiR-VG7AnFxlTQ5_ZzArTk5cE_wUgcC5Wf56xu0hOhulpfyrbA"
+  },
+  "pagesToMonitor": [
+    "https://ai.invideo.io/workspace/1d22a663-408b-41f6-86fc-55a23e1b4c3c/v40-copilot",
+    "https://ai.invideo.io/workspace/1d22a663-408b-41f6-86fc-55a23e1b4c3c/media-library",
+    "https://ai.invideo.io/workspace/1d22a663-408b-41f6-86fc-55a23e1b4c3c/explore",
+    "https://ai.invideo.io/workspace/1d22a663-408b-41f6-86fc-55a23e1b4c3c/you"
+  ],
+  "alertThresholdPercentage": 5
+}
