@@ -187,9 +187,9 @@ const MONGODB_URI = process.env.MONGODB_URI;
 
 // Cloudinary Setup - REPLACE THESE WITH YOUR KEYS!
 cloudinary.config({ 
-  cloud_name: 'doitoisrp', 
-  api_key: '928779835413764', 
-  api_secret: 'hXln7eYbdOdNA6RcuOayiFaYhOI' 
+  cloud_name: process.env.CLOUDINARY_CLOUD_NAME, 
+  api_key: process.env.CLOUDINARY_API_KEY,
+  api_secret: process.env.CLOUDINARY_API_SECRET, 
 });
 
 // --- HELPER FUNCTIONS ---
